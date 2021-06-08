@@ -31,4 +31,23 @@
 
 ## Referências de sites de desafios de programação
 - https://coderbyte.com/
-- 
+- https://www.hackerrank.com/
+- https://www.jschallenger.com/
+
+
+## Referências de como se tornar um Desenvolvedor de Front-end
+- https://roadmap.sh/frontend
+
+## Referências de status code HTTP
+- https://httpstatusdogs.com/
+
+## Referências de cursos gratuitos
+- https://digitalinnovation.one/
+
+
+
+
+
+
+
+
