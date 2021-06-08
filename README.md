@@ -9,6 +9,7 @@
 - https://miro.com/
 - https://www.notion.so/
 - https://www.figma.com/
+- https://evernote.com/
 
 ## Referências melhores sites
 -  https://www.csswinner.com/
@@ -38,7 +39,11 @@
 - https://www.hackerrank.com/
 - https://www.jschallenger.com/
 - https://www.devchallenge.com.br/challenges
+- https://www.urionlinejudge.com.br/judge/en/login
+- https://www.spoj.com/
 
+## Referências de ícones
+- https://heroicons.com/
 
 ## Referências de como se tornar um Desenvolvedor de Front-end
 - https://roadmap.sh/frontend
