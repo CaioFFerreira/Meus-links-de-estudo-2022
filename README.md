@@ -43,6 +43,13 @@
 
 ## Referências de cursos gratuitos
 - https://digitalinnovation.one/
+- https://www.freecodecamp.org/
+
+## Referências de gerador de imagens para seu código
+- https://carbon.now.sh/
+
+## Referências de APIS
+- https://hgbrasil.com/
 
 
 
