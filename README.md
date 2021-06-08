@@ -5,6 +5,10 @@
  - https://www.behance.net/
  - https://www.awwwards.com/websites/
 
+## Referências de Ferramentas para UX/UI
+- https://miro.com/
+- https://www.notion.so/
+- https://www.figma.com/
 
 ## Referências melhores sites
 -  https://www.csswinner.com/
@@ -33,6 +37,7 @@
 - https://coderbyte.com/
 - https://www.hackerrank.com/
 - https://www.jschallenger.com/
+- https://www.devchallenge.com.br/challenges
 
 
 ## Referências de como se tornar um Desenvolvedor de Front-end
@@ -41,15 +46,18 @@
 ## Referências de status code HTTP
 - https://httpstatusdogs.com/
 
-## Referências de cursos gratuitos
+## Referências de cursos gratuitos de programação
 - https://digitalinnovation.one/
 - https://www.freecodecamp.org/
+- https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado
 
-## Referências de gerador de imagens para seu código
-- https://carbon.now.sh/
 
 ## Referências de APIS
 - https://hgbrasil.com/
+- https://www.themoviedb.org/documentation/api
+
+## Referências de Vagas
+- https://seujob.tech/
 
 
 
