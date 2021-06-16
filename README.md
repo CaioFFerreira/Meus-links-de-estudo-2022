@@ -44,6 +44,8 @@
 - https://www.devchallenge.com.br/challenges
 - https://www.urionlinejudge.com.br/judge/en/login
 - https://www.spoj.com/
+- https://www.codewars.com/
+- https://leetcode.com/
 
 ## Ícones
 - https://heroicons.com/
