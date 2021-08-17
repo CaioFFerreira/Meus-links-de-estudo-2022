@@ -4,6 +4,13 @@
  - https://dribbble.com/
  - https://www.behance.net/
  - https://www.awwwards.com/websites/
+ - https://trianglify.io/
+ - https://wickedbackgrounds.com/
+ - https://felixg.io/products/inline
+ - https://designvault.io/
+ - https://boxicons.com/
+ - https://tool.graphics/mondrian
+ - https://www.pixeltrue.com/scenic-illustrations
 
 ## Imagens draw gratuita 
 - https://themeisle.com/blog/free-illustrations/#IRA
