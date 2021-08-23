@@ -57,6 +57,9 @@
 ## Ícones
 - https://heroicons.com/
 
+## Editor Vídeos online
+- https://app.clipchamp.com/
+
 ## Como se tornar um Desenvolvedor de Front-end
 - https://roadmap.sh/frontend
 
