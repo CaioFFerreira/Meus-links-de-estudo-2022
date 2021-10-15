@@ -44,7 +44,7 @@
 - [Análise de site](https://ferramentas.resultadosdigitais.com.br/analise-de-site/?fbclid=IwAR2FGe4XUJFe-zUi2ie4ZuZRpbN-ZAWKEPmoYtIOfgjtJHZk8XuoS2s4WIc)
 
 
-## Sites de desafios de programação
+## Desafios de programação
 - https://coderbyte.com/
 - https://www.hackerrank.com/
 - https://www.jschallenger.com/
