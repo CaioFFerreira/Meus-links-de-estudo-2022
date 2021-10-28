@@ -15,6 +15,9 @@
 ## Imagens draw gratuita 
 - https://themeisle.com/blog/free-illustrations/#IRA
 
+## Corretor ortográfico
+- https://languagetool.org/pt-BR
+
 ## Ferramentas para UX/UI
 - https://miro.com/
 - https://www.notion.so/
@@ -40,6 +43,7 @@
 ## Seo
 - https://sitechecker.pro/pt/
 - https://sitechecker.pro/pt/open-graph/ 
+- https://jamseotools.com/
 - https://validator.w3.org/
 - [Análise de site](https://ferramentas.resultadosdigitais.com.br/analise-de-site/?fbclid=IwAR2FGe4XUJFe-zUi2ie4ZuZRpbN-ZAWKEPmoYtIOfgjtJHZk8XuoS2s4WIc)
 
