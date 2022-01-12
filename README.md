@@ -11,6 +11,7 @@
  - https://boxicons.com/
  - https://tool.graphics/mondrian
  - https://www.pixeltrue.com/scenic-illustrations
+ - https://www.dailyui.co/
 
 ## Imagens draw gratuita 
 - https://themeisle.com/blog/free-illustrations/#IRA
