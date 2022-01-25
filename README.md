@@ -12,6 +12,7 @@
  - https://tool.graphics/mondrian
  - https://www.pixeltrue.com/scenic-illustrations
  - https://www.dailyui.co/
+ - https://www.typewolf.com/
 
 ## Imagens draw gratuita 
 - https://themeisle.com/blog/free-illustrations/#IRA
