@@ -16,6 +16,7 @@
 
 ## Imagens draw gratuita 
 - https://themeisle.com/blog/free-illustrations/#IRA
+- https://designstripe.com/
 
 ## Corretor ortográfico
 - https://languagetool.org/pt-BR
