@@ -62,6 +62,9 @@
 
 ## Ícones
 - https://heroicons.com/
+- https://icons8.com/
+- https://thenounproject.com/
+- https://app.streamlinehq.com/icons/material-line
 
 ## Editor Vídeos online
 - https://app.clipchamp.com/
