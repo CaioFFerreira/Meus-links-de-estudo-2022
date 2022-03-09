@@ -1,4 +1,4 @@
-# Meus Links úteis de referências 2021
+# Meus Links úteis de referências 2022
 
 ## Design
  - https://dribbble.com/
@@ -50,6 +50,11 @@
 - https://jamseotools.com/
 - https://validator.w3.org/
 - [Análise de site](https://ferramentas.resultadosdigitais.com.br/analise-de-site/?fbclid=IwAR2FGe4XUJFe-zUi2ie4ZuZRpbN-ZAWKEPmoYtIOfgjtJHZk8XuoS2s4WIc)
+- https://neilpatel.com/br/seo-analyzer/
+- https://www.seobility.net/en/seocheck/
+- https://seositecheckup.com/
+- https://www.seotesteronline.com/
+- https://www.seoptimer.com/
 
 
 ## Desafios de programação
