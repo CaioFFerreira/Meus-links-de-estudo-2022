@@ -30,6 +30,7 @@
 
 ## Ferramentas de CSS
 - https://tailwindcss.com/
+- https://bennettfeely.com/clippy/
 
 ## Melhores sites
 -  https://www.csswinner.com/
