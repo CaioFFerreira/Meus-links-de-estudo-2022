@@ -28,6 +28,9 @@
 - https://www.figma.com/
 - https://evernote.com/
 
+## Ferramentas de CSS
+- https://tailwindcss.com/
+
 ## Melhores sites
 -  https://www.csswinner.com/
 -  https://www.cssdesignawards.com/
