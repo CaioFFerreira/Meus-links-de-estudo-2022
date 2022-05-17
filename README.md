@@ -97,6 +97,7 @@
 ## APIS
 - https://hgbrasil.com/
 - https://www.themoviedb.org/documentation/api
+- https://bible-api.com/
 
 ## Vagas
 - https://seujob.tech/
