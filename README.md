@@ -22,6 +22,9 @@
 ## Corretor ortográfico
 - https://languagetool.org/pt-BR
 
+## Redação Técnica
+- https://developers.google.com/tech-writing/one
+
 ## Ferramentas para UX/UI
 - https://miro.com/
 - https://www.notion.so/
