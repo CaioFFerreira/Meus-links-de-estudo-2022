@@ -30,6 +30,7 @@
 - https://www.notion.so/
 - https://www.figma.com/
 - https://evernote.com/
+- https://excalidraw.com/
 
 ## Ferramentas de CSS
 - https://tailwindcss.com/
