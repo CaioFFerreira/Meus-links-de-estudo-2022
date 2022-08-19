@@ -101,6 +101,9 @@
 - https://hgbrasil.com/
 - https://www.themoviedb.org/documentation/api
 - https://bible-api.com/
+- https://jsonplaceholder.typicode.com/
+- https://apiary.io/
+- https://designer.mocky.io/
 
 ## Vagas
 - https://seujob.tech/
