@@ -105,6 +105,7 @@
 - https://jsonplaceholder.typicode.com/
 - https://apiary.io/
 - https://designer.mocky.io/
+- https://cep.awesomeapi.com.br/json/12230720
 
 ## Vagas
 - https://seujob.tech/
