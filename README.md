@@ -13,6 +13,12 @@
  - https://www.pixeltrue.com/scenic-illustrations
  - https://www.dailyui.co/
  - https://www.typewolf.com/
+ - https://www.evernote.design/
+ - https://component.gallery/components/
+ - https://uidesign.to/
+ - https://uigarage.net/
+ - https://uxarchive.com/
+ - 
 
 ## Imagens draw gratuita 
 - https://themeisle.com/blog/free-illustrations/#IRA
