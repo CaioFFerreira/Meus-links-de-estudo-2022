@@ -42,6 +42,10 @@
 - https://tailwindcss.com/
 - https://bennettfeely.com/clippy/
 
+## Typescript
+- https://type-level-typescript.com/
+- https://github.com/type-challenges/type-challenges
+
 ## Melhores sites
 -  https://www.csswinner.com/
 -  https://www.cssdesignawards.com/
