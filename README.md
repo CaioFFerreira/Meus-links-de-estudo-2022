@@ -86,6 +86,7 @@
 - https://leetcode.com/
 - https://adventofcode.com/
 - https://100dayscss.com/
+- https://www.beecrowd.com.br/
 - https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/
 
 ## Ícones
