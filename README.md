@@ -88,6 +88,7 @@
 - https://100dayscss.com/
 - https://www.beecrowd.com.br/
 - https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/
+- https://www.techinterviewhandbook.org/grind75
 
 ## Ícones
 - https://heroicons.com/
