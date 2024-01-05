@@ -46,6 +46,9 @@
 - https://type-level-typescript.com/
 - https://github.com/type-challenges/type-challenges
 
+  ## Angular
+- https://apexcharts.com/docs/legend/ - Chart
+
 ## Melhores sites
 -  https://www.csswinner.com/
 -  https://www.cssdesignawards.com/
